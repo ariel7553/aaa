@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="text_nombre">nombre1</string>
+    <string name="text_edad">edad1</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_salir">salir</string>
+    <string name="btn_enviar">enviar</string>
+</resources>
